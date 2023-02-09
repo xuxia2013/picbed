@@ -2,7 +2,7 @@
 
 自用的轻量web端图床
 
-[https://admin.noraxu.online/open/upload](https://admin.noraxu.online/open/upload)
+[https://www.oneclickrelease.site/open/upload](https://www.oneclickrelease.site/open/upload)
 
 ![](./微信截图_20230118163527.png)
 
